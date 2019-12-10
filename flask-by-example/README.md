@@ -19,3 +19,7 @@ https://realpython.com/flask-by-example-part-1-project-setup/
 Real Python, Flask by Example, Part 2, Postgres, SQLAlchemy, and Alembic.
 Real Python [Accessed: 2019-11-23]
 https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+
+Real Python, Flask by Example, Part 3, Text Processing with Requests,
+BeautifulSoup, and NLTK. Real Python [Accessed: 2019-12-10]
+https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
